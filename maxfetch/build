@@ -1,7 +1,7 @@
 [core]
 name="maxfetch"
 version="1.2.0"
-source = "https://github.com/jobcmax/maxfetch"\
+source = "https://github.com/jobcmax/maxfetch"
 depends = []
 
 [build]
