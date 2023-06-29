@@ -3,6 +3,7 @@ name="maxfetch"
 version="1.2.0"
 source = "https://github.com/jobcmax/maxfetch"
 depends = []
+cpu_flags = []
 
 [build]
 files = ["/usr/bin/maxfetch"]
